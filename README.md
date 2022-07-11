@@ -1,6 +1,6 @@
 # ENI Veille SSI Log4Shell
 
-Pour réalisez l'attaque présente dans la vidéo, vous devez créez 2 machines virtuels
+Pour réalisez l'attaque présente dans la vidéo, vous devez créer 2 machines virtuels
 
 Dans le première machine qui sera celle de la victime, vous devrez installer une version vulnérable de Solr
 
